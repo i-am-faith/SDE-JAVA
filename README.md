@@ -1,0 +1,3 @@
+| SL No. | Problem Name  | Platform           | Link           | Location | Revised |
+|--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| 1 | Set Matrix Zeroes | Leetcode | <a href="https://leetcode.com/problems/set-matrix-zeroes/">Link</a> | [set_matrix0.java](set_matrix0.java) | ❌ |
