@@ -4,3 +4,4 @@
 |--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | 1 | Set Matrix Zeroes | Leetcode | <a href="https://leetcode.com/problems/set-matrix-zeroes/">Link</a> | [set_matrix0.java](set_matrix0.java) | ❌ |
 | 2 | Pascal's Triangle | Leetcode | <a href="https://leetcode.com/problems/pascals-triangle/">Link</a> | [pascals.java](pascals.java) | ❌ |
+| 3 | Maximum Subarray | Leetcode | <a href="https://leetcode.com/problems/maximum-subarray/">Link</a> | [maximum_subarray.java](maximum_subarray.java) | ❌ |
