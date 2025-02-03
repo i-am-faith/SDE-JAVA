@@ -6,3 +6,4 @@
 | 2 | Pascal's Triangle | Leetcode | <a href="https://leetcode.com/problems/pascals-triangle/">Link</a> | [pascals.java](pascals.java) | ❌ |
 | 3 | Maximum Subarray | Leetcode | <a href="https://leetcode.com/problems/maximum-subarray/">Link</a> | [maximum_subarray.java](maximum_subarray.java) | ❌ |
 | 4 | Next Permutation | Leetcode | <a href="https://leetcode.com/problems/next-permutation/">Link</a> | [next_permutation.java](next_permutation.java) | ❌ |
+| 5 | Sort Colors | Leetcode | <a href="https://leetcode.com/problems/sort-colors/">Link</a> | [sort_colors.java](sort_colors.java) | ❌ |
