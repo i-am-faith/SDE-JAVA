@@ -12,3 +12,4 @@
 | 8 | Merge Intervals | Leetcode | <a href="https://leetcode.com/problems/merge-intervals/">Link</a> | [merge_intervals.java](merge_intervals.java) | ❌ |
 | 9 | Merge Sorted Array | Leetcode | <a href="https://leetcode.com/problems/merge-sorted-array/">Link</a> | [merge_sort.java](merge_sort.java) | ❌ |
 | 10 | Duplicate Number | Leetcode | <a href="https://leetcode.com/problems/find-the-duplicate-number/">Link</a> | [duplicate_number.java](duplicate_number.java) | ❌ |
+| 11 | Count Inversions | Codestudio | <a href="https://www.naukri.com/code360/problems/count-inversions_615">Link</a> | [inversions.java](inversions.java) | ❌ |
