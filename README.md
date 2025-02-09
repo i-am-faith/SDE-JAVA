@@ -15,3 +15,4 @@
 | 11 | Count Inversions | Codestudio | <a href="https://www.naukri.com/code360/problems/count-inversions_615">Link</a> | [inversions.java](inversions.java) | ❌ |
 | 12 | Search a 2D Matrix | Leetcode | <a href="https://leetcode.com/problems/search-a-2d-matrix/">Link</a> | [search_matrix.java](search_matrix.java) | ❌ |
 | 13 | Pow(x, n) | Leetcode | <a href="https://leetcode.com/problems/powx-n/">Link</a> | [pow_xn.java](pow_xn.java) | ❌ |
+| 14 | Majority Element | Leetcode | <a href="https://leetcode.com/problems/majority-element/">Link</a> | [majority.java](majority.java) | ❌ |
