@@ -17,3 +17,4 @@
 | 13 | Pow(x, n) | Leetcode | <a href="https://leetcode.com/problems/powx-n/">Link</a> | [pow_xn.java](pow_xn.java) | ❌ |
 | 14 | Majority Element | Leetcode | <a href="https://leetcode.com/problems/majority-element/">Link</a> | [majority.java](majority.java) | ❌ |
 | 15 | Majority Element II | Leetcode | <a href="https://leetcode.com/problems/majority-element-ii/">Link</a> | [majority2.java](majority2.java) | ❌ |
+| 16 | 
